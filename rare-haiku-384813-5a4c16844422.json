@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rare-haiku-384813",
+  "private_key_id": "5a4c16844422557e235dcabe32ce04626cbe96d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7nGN9WWRhrjQe\npCAu6/zD2Z8+Ucp5FQiiIFYF2G21sykgexy1E6nLo4SfDRDyYfsN02U2egRJ1LSH\nKBBz+KqkNUJx04Z8FswLTi3GEhM4r5ppFGcitvE+H11gKd2qm24FynrpufiNyQ1f\nQd6RfVLsOoqS8sU/UijfXDY7JQXLaGe+RdEyZ24UdXHgslpT42QBZ1RBes31TtE1\ntzdnoBL87bcG0sXu4QrCxPkzoqhkDqDKhUxxLlCRc5Ojl7ZwtTDLK+z0o4lqSxr+\nP4f+GO8+Mmu7Wffuo4I3Rqk7aHMnHZQyyOY/DqIpn303FAhBlMhJtHeawX/4gTkF\nMfSVLxS/AgMBAAECggEAKUlw0ZiXETILkUSwOnM/lIAzXb0VMFFTLY6tL6sh9a8g\nWWAOgMD7iG+LU49GD/lFDRVc/ECc6fyP4ACOol7yeqGn5jHVMkC4FbLWOvUmWr62\nXfKaAdc9vtybKXr9J7r92vNk2kPNcbJxqWlvCBiK46a8cTtQ8i7sBL+fxaNPo6QN\nUCJq/u6BBwtHOzRnYaoNz//dSFr5nTWvfbgwO8F8ee8Y6Cb0gYw4tUx6o2HaZYBJ\nF4i0s+Jre/88JAEOuZ/HZ1eQn4Og66dboB7NGHN1s0+NkvyfgTd4524mBqd3+N/Q\nQQ41DmbWOsc80S3nYRBWobyjqi9eMa//760tCzXspQKBgQDi+EjXDOcZcEpfdp4F\nWRsOy7O2v0SKdmp320HR1WSK+Al86CfCUTlpnlX10CIISFZrt8tEOo/+im6tJgoA\nQnmDL1CnUk/G/LFiSgkCn0fV6/ffOItgxG9Kzm9fzQDnfaLVfxC/8PORFA4Pzqdz\neM9pl9tRWce/AiUhZ+KaPOo1YwKBgQDTm13BxmfKu0Fw46fsCkeMPipOB2daGNm9\nZO/R1Gjg6alhLKGBlDd0GenV9byAECuARj/xbfhDILMWhI+yEXgXBjBQJktWl3M8\nBOftx9DyAklxdY2XCNofu5KvBvLNIIGV1bqmgLsSeb/5pMLxZ5FgZbsyrpTfn+MP\ntmyeaxEf9QKBgQCsop0EtVOyDa8EHXzkJHpoLphrD+BaUOd6ctMFf4ISEcdlsk9L\nhexdYYmQhtbb5emV1R5OrxyHR1QXby98MxOprHt0SS9U8y8Yy6c+z1gcZncK2j9p\nQwBDrfEYtR1S9kS8jwF2fRdF6jMn4s+LDQD2GANBRUChEEiduB6rolmicQKBgQCt\nMMFI4uF6XU7PXZTHrRYoI40udgLSC/rSd3WNUINSagwWm5fIXY4ReVAYrVrNme5w\nu46ERJRoJLBPIsoVXRTkC02pm94XjjdjjURiKiPKn7KKqULstfMI+9WvaUl6ODu3\nbcmpkz0Jfxpv8bkYKcMjmb/gWGFCsjL+XjmCY3ENrQKBgQCXw8ZOAVdvo6EicR8I\nNMT7LD+Nj7TnqxgxWghi63FeHIpKx10sONGZbmqrm2nEpJFepL6z6j44hz9oEPcb\ni66JTmziFPWzeyJ5aBarKWKUmXqm9YvL4EOgWDWpSMzrDFuRKjEBbQYdheoz+8iB\nBXN0cQMSPiLBxg/u7DBGCZTy8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sales-app@rare-haiku-384813.iam.gserviceaccount.com",
+  "client_id": "108251690166630172581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sales-app%40rare-haiku-384813.iam.gserviceaccount.com"
+}
